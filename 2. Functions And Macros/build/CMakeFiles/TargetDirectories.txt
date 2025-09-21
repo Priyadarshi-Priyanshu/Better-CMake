@@ -1,0 +1,3 @@
+/home/priyanshu/Learning/CMake/Better-CMake/2. Functions And Macros/build/CMakeFiles/LearningFAndM.dir
+/home/priyanshu/Learning/CMake/Better-CMake/2. Functions And Macros/build/CMakeFiles/edit_cache.dir
+/home/priyanshu/Learning/CMake/Better-CMake/2. Functions And Macros/build/CMakeFiles/rebuild_cache.dir
